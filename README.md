@@ -4,7 +4,7 @@
 This project demonstrates a complete business analysis process using Tableau — from data connection and modeling to designing dynamic dashboards tailored for sales and customer performance insights.
 
 🔗 **Live Dashboards on Tableau Public:**  
-[Sales Dashboard](https://public.tableau.com/views/YourSalesDashboardLink)  
+[Sales Dashboard]([https://public.tableau.com/views/YourSalesDashboardLink](https://public.tableau.com/views/SalesDashboard_17491294992860/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
 [Customer Dashboard](https://public.tableau.com/views/YourCustomerDashboardLink)
 
 📸 ![Dashboard Preview](images/dashboard_preview.png)
